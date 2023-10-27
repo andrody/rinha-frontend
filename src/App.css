@@ -226,3 +226,14 @@
     background-color: rgba(22, 160, 133);
     margin: 30px 0;
 }
+
+.percentage {
+    position: fixed;
+    bottom: 12px;
+    right: 12px;
+    background: #ffca0b;
+    opacity: 1;
+    padding: 2px 7px;
+    border-radius: 20px;
+    color: #fff;
+}

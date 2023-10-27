@@ -58,13 +58,3 @@ button:focus,
 button:focus-visible {
     outline: 4px auto -webkit-focus-ring-color;
 }
-
-.percentage {
-    position: fixed;
-    bottom: 12px;
-    right: 12px;
-    background: #ebebeb;
-    opacity: 1;
-    padding: 2px 7px;
-    border-radius: 20px;
-}
