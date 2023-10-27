@@ -61,8 +61,8 @@ button:focus-visible {
 
 .percentage {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 12px;
+    right: 12px;
     background: #ebebeb;
     opacity: 1;
     padding: 2px 7px;
