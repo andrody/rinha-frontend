@@ -64,4 +64,8 @@ button:focus-visible {
     bottom: 20px;
     right: 20px;
     opacity: 0.5;
+    background: #ebebeb;
+    opacity: 1;
+    padding: 2px 7px;
+    border-radius: 20px;
 }
